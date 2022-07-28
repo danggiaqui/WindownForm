@@ -1,0 +1,10 @@
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\bin\Debug\winform1.exe.config
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\bin\Debug\winform1.exe
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\bin\Debug\winform1.pdb
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\obj\Debug\winform1.csproj.AssemblyReference.cache
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\obj\Debug\winform1.Form1.resources
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\obj\Debug\winform1.Properties.Resources.resources
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\obj\Debug\winform1.csproj.GenerateResource.cache
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\obj\Debug\winform1.csproj.CoreCompileInputs.cache
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\obj\Debug\winform1.exe
+C:\Users\ngoc\OneDrive\Desktop\winform1\winform1\obj\Debug\winform1.pdb
